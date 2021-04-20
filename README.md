@@ -23,3 +23,5 @@ With DSI_CRM, our salesmen can:
 # New Quote
 ![alt text](https://github.com/dotH55/DSI_CRM/blob/main/Images/Quote_1.png?raw=true)
 ![alt text](https://github.com/dotH55/DSI_CRM/blob/main/Images/Quote_2.png?raw=true)
+
+Sensitive Information has been removed from this project.
