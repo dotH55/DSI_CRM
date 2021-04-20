@@ -12,8 +12,10 @@ With DSI_CRM, our salesmen can:
 
 # Login
 ![alt text](https://github.com/dotH55/DSI_CRM/blob/main/Images/Login.png?raw=true)
-# Main
+# Main UGA Theme
 ![alt text](https://github.com/dotH55/DSI_CRM/blob/main/Images/Main.png?raw=true)
+# Main DSI Theme
+![alt text](https://github.com/dotH55/DSI_CRM/blob/main/Images/Main_2.png?raw=true)
 # Calendar
 ![alt text](https://github.com/dotH55/DSI_CRM/blob/main/Images/Calendar.png?raw=true)
 # Machine
